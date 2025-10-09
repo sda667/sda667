@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Ali, a computer science student with a strong interest in cybersecurity, data science, and systems engineering. I enjoy solving complex problems, designing efficient software, and exploring how technology can be applied to real-world challenges.<br><br>I’ve worked on a variety of projects, from network protocol analysis and AI models to optimization problems and full-stack applications, and I’m always looking for opportunities to learn, collaborate, and build impactful solutions.<br><br>Check out my repositories below to see what I’ve been working on!
+Hi, I’m Ali, a computer science student with a strong interest in cybersecurity, data science, and systems engineering. I enjoy solving complex problems, designing efficient software, and exploring how technology can be applied to real-world challenges.<br><br>I’ve worked on a variety of projects, from network protocol analysis and AI models to optimization problems and full-stack applications, and I’m always looking for opportunities to learn, collaborate, and build impactful solutions.<br><br>Check out my pinned repositories below to see what I’ve been working on!
 
 
 ## 🌐 Socials:
